@@ -41,8 +41,6 @@ I'm a Bengali full-stack developer and content creator building my version of th
 <a href="https://www.microsoft.com/software-download/windows11" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="35" height="35" style="padding-right:10px;"/> </a> 
 <a href="https://www.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" alt="google"  width="35" height="35" style="padding-right:10px;"/> </a> 
 
-<br />
-
 #
 
 ### 📊 Stats
