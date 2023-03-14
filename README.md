@@ -2,7 +2,7 @@
 
 **`[ Software Development | C# | ASP.NET Core | Angular | MIS | Python | Machine Learning | NLP ]`**
 
-I'm a Bengali full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a software developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
@@ -54,6 +54,6 @@ I'm a Bengali full-stack developer and content creator building my version of th
 
 <details>
  <summary><h3>💻 Hasib's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and its famous framework ASP.NET Core. A desire that landed me a full-stack software engineering job upon graduation. However.
 </details>
 
