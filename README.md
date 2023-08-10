@@ -1,8 +1,16 @@
 # 👨‍💻 Hasibul Hasan
 
-**`[ Software Development | C# | ASP.NET Core | Angular | MIS | Python | Machine Learning | NLP ]`**
+**`[ Software Development | React Native | TypeScript | ASP.NET Core | Node.js | Machine Learning | NLP ]`**
 
-I'm a software developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+"Hello World"
+
+I'm a professional software developer specializing in crafting Cross-Platform Hybrid Mobile Applications. With React Native as my front-end shield and bolstered by popular backend frameworks like ASP.NET and Node.js, I've brought to life a range of mobile apps running on Android and iOS platforms. Imagine, one app for both Google Play Store and Apple Store - it's the magic of technology!
+
+My creations span Health-Tech, Personal Finance, and Fintech domains, reflecting my diverse skills.
+
+I'm captivated by Machine Learning in addition to app development and even co-authored a thesis on Natural Language Processing, a journey that deepened my love for tech intricacies.
+
+With a Computer Science and Engineering degree from Bangladesh, I'm driven by an insatiable curiosity for the ever-evolving tech realm. I'm here to connect with fellow professionals who share my thoughts and passion for technology so that we can embark on an exhilarating tech odyssey together.
 
 ---
 
@@ -54,6 +62,6 @@ I'm a software developer and content creator building my version of the digital 
 
 <details>
  <summary><h3>💻 Hasib's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and its famous framework ASP.NET Core. A desire that landed me a full-stack software engineering job upon graduation. However.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world — code, logic, theory, and whatnot. And all the while, I was teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and its famous framework ASP.NET Core. A desire that landed me a junior software engineering job upon graduation. However, I found interest in mobile application development, lately. I've started working with React Native, a popular framework for developing cross-platform mobile applications. I'm using ASP.NET Core Web API and Node.js backend framework for managing databases and API endpoints.
 </details>
 
