@@ -4,13 +4,13 @@
 
 "Hello World"
 
-I'm a professional software developer specializing in crafting Cross-Platform Hybrid Mobile Applications. With React Native as my front-end shield and bolstered by popular backend frameworks like ASP.NET and Node.js, I've brought to life a range of mobile apps running on Android and iOS platforms. Imagine, one app for both Google Play Store and Apple Store - it's the magic of technology!
+I'm a professional software developer specializing in crafting Cross-Platform Hybrid Mobile Applications. With the combination of React Native and backend frameworks like ASP.NET and Express.js, I've brought to life a range of mobile apps running on Android and iOS platforms. Imagine, one app for both Google Play Store and Apple Store - it's the magic of technology!
 
-My creations span Health-Tech, Personal Finance, and Fintech domains, reflecting my diverse skills.
+My creations span Health-Tech and Personal Finance domains, reflecting my diverse skills.
 
 I'm captivated by Machine Learning in addition to app development and even co-authored a thesis on Natural Language Processing, a journey that deepened my love for tech intricacies.
 
-With a Computer Science and Engineering degree from Bangladesh, I'm driven by an insatiable curiosity for the ever-evolving tech realm. I'm here to connect with fellow professionals who share my thoughts and passion for technology so that we can embark on an exhilarating tech odyssey together.
+With a Computer Science and Engineering degree from United International University, I'm driven by an insatiable curiosity for the ever-evolving tech realm. I'm here to connect with fellow professionals who share my thoughts and passion for technology so that we can embark on an exhilarating tech odyssey together.
 
 ---
 
