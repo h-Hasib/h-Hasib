@@ -2,15 +2,15 @@
 
 **`[ Software Development | React Native | TypeScript | ASP.NET Core | Node.js | Machine Learning | NLP ]`**
 
-"Hello World"
 
-I'm a professional software developer specializing in crafting Cross-Platform Hybrid Mobile Applications. With the combination of React Native and backend frameworks like ASP.NET and Express.js, I've brought to life a range of mobile apps running on Android and iOS platforms. Imagine, one app for both Google Play Store and Apple Store - it's the magic of technology!
+<h3 align= "center">
+I'm a cross-platform mobile app developer with expertise in React Native, ASP.NET Core, and Express.js. My work encompasses health tech and Personal Finance, showcasing diverse skills. I'm passionate about tech intricacies, including Machine Learning, and I hold a degree in Computer Science and Engineering from United International University. 
+</h3>
+<h3 align="center">Connect with me 
+<a href="https://www.linkedin.com/in/hasibul-hasan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibul-hasan01" height="30" width="45" /></a>
+</h3>
 
-My creations span Health-Tech and Personal Finance domains, reflecting my diverse skills.
 
-I'm captivated by Machine Learning in addition to app development and even co-authored a thesis on Natural Language Processing, a journey that deepened my love for tech intricacies.
-
-With a Computer Science and Engineering degree from United International University, I'm driven by an insatiable curiosity for the ever-evolving tech realm. I'm here to connect with fellow professionals who share my thoughts and passion for technology so that we can embark on an exhilarating tech odyssey together.
 
 ---
 
@@ -57,11 +57,3 @@ With a Computer Science and Engineering degree from United International Univers
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-Hasib&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-hasib&layout=compact&langs_count=12&theme=gruvbox)](https://github.com/h-hasib/github-readme-stats)
- #
-
-
-<details>
- <summary><h3>💻 Hasib's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world — code, logic, theory, and whatnot. And all the while, I was teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and its famous framework ASP.NET Core. A desire that landed me a junior software engineering job upon graduation. However, I found interest in mobile application development, lately. I've started working with React Native, a popular framework for developing cross-platform mobile applications. I'm using ASP.NET Core Web API and Node.js backend framework for managing databases and API endpoints.
-</details>
-
