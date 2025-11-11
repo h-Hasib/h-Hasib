@@ -5,7 +5,7 @@
 
 
 <h3 align= "left" style="padding-left: 20px">
-Full-Stack Developer building ERP systems, automation tools, and cross-platform mobile apps with Frappe/ERPNext, Python, TypeScript, React Native, Next.js. 
+Full-Stack Software Developer, building ERP systems, automation tools, and cross-platform mobile apps with Frappe/ERPNext, Python, TypeScript, React Native, Next.js. 
 Contributor to Open-Course, an LLM-powered EdTech platform for auto-generating interactive courses.
 </h3>
 <h3 align="left" style="margin-left: 20px">Follow on LinkedIn 
