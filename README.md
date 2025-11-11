@@ -9,7 +9,7 @@ Full-Stack Dev building ERP systems, automation tools, and cross-platform mobile
 Contributor to Open Course, an LLM-powered EdTech platform for auto-generating interactive courses.
 </h3>
 <h3 align="left" style="margin-left: 20px">Follow on LinkedIn 
-<a href="[https://www.linkedin.com/in/h-hasib](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=h-hasib)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-hasib" height="30" width="45" /></a>
+<a href="https://www.linkedin.com/in/h-hasib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-hasib" height="30" width="45" /></a>
 </h3>
 
 
