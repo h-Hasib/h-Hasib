@@ -5,10 +5,11 @@
 
 
 <h3 align= "left" style="padding-left: 20px">
-I'm a cross-platform mobile app developer with expertise in React Native, ASP.NET Core, and Express.js. My work encompasses health tech and Personal Finance, showcasing diverse skills. I'm passionate about tech intricacies, including Machine Learning, and I hold a degree in Computer Science and Engineering from United International University. 
+Full-Stack Dev building ERP systems, automation tools, and cross-platform mobile apps with Frappe/ERPNext, Python, TypeScript, React Native, Next.js. 
+Contributor to Open Course, an LLM-powered EdTech platform for auto-generating interactive courses.
 </h3>
-<h3 align="left" style="margin-left: 20px">Connect with me 
-<a href="https://www.linkedin.com/in/hasibul-hasan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibul-hasan01" height="30" width="45" /></a>
+<h3 align="left" style="margin-left: 20px">Follow on LinkedIn 
+<a href="[https://www.linkedin.com/in/hasibul-hasan01](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=h-hasib)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-hasib" height="30" width="45" /></a>
 </h3>
 
 
